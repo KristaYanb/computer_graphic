@@ -1,0 +1,39 @@
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\LABA3\LABA3\bin\Debug\LABA3.exe.config
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\LABA3\LABA3\obj\Debug\LABA3.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\LABA3\LABA3\obj\Debug\LABA3.Form1.resources
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\LABA3\LABA3\obj\Debug\LABA3.Properties.Resources.resources
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\LABA3\LABA3\obj\Debug\LABA3.csproj.GenerateResource.Cache
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\LABA3\LABA3\bin\Debug\LABA3.exe
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\LABA3\LABA3\bin\Debug\LABA3.pdb
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\LABA3\LABA3\obj\Debug\LABA3.exe
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\LABA3\LABA3\obj\Debug\LABA3.pdb
+C:\Users\Karina\Downloads\LABA3\LABA3\bin\Debug\LABA3.exe.config
+C:\Users\Karina\Downloads\LABA3\LABA3\bin\Debug\LABA3.exe
+C:\Users\Karina\Downloads\LABA3\LABA3\bin\Debug\LABA3.pdb
+C:\Users\Karina\Downloads\LABA3\LABA3\obj\Debug\LABA3.csprojAssemblyReference.cache
+C:\Users\Karina\Downloads\LABA3\LABA3\obj\Debug\LABA3.Form1.resources
+C:\Users\Karina\Downloads\LABA3\LABA3\obj\Debug\LABA3.Properties.Resources.resources
+C:\Users\Karina\Downloads\LABA3\LABA3\obj\Debug\LABA3.csproj.GenerateResource.cache
+C:\Users\Karina\Downloads\LABA3\LABA3\obj\Debug\LABA3.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Downloads\LABA3\LABA3\obj\Debug\LABA3.exe
+C:\Users\Karina\Downloads\LABA3\LABA3\obj\Debug\LABA3.pdb
+D:\Учеба\Графика\Лаба3\LABA3\LABA3\LABA3\bin\Debug\LABA3.exe.config
+D:\Учеба\Графика\Лаба3\LABA3\LABA3\LABA3\bin\Debug\LABA3.exe
+D:\Учеба\Графика\Лаба3\LABA3\LABA3\LABA3\bin\Debug\LABA3.pdb
+D:\Учеба\Графика\Лаба3\LABA3\LABA3\LABA3\obj\Debug\LABA3.csprojAssemblyReference.cache
+D:\Учеба\Графика\Лаба3\LABA3\LABA3\LABA3\obj\Debug\LABA3.Form1.resources
+D:\Учеба\Графика\Лаба3\LABA3\LABA3\LABA3\obj\Debug\LABA3.Properties.Resources.resources
+D:\Учеба\Графика\Лаба3\LABA3\LABA3\LABA3\obj\Debug\LABA3.csproj.GenerateResource.cache
+D:\Учеба\Графика\Лаба3\LABA3\LABA3\LABA3\obj\Debug\LABA3.csproj.CoreCompileInputs.cache
+D:\Учеба\Графика\Лаба3\LABA3\LABA3\LABA3\obj\Debug\LABA3.exe
+D:\Учеба\Графика\Лаба3\LABA3\LABA3\LABA3\obj\Debug\LABA3.pdb
+C:\Users\yanbe\Desktop\лр3_графика\LABA3\LABA3\LABA3\bin\Debug\LABA3.exe.config
+C:\Users\yanbe\Desktop\лр3_графика\LABA3\LABA3\LABA3\bin\Debug\LABA3.exe
+C:\Users\yanbe\Desktop\лр3_графика\LABA3\LABA3\LABA3\bin\Debug\LABA3.pdb
+C:\Users\yanbe\Desktop\лр3_графика\LABA3\LABA3\LABA3\obj\Debug\LABA3.csprojAssemblyReference.cache
+C:\Users\yanbe\Desktop\лр3_графика\LABA3\LABA3\LABA3\obj\Debug\LABA3.Form1.resources
+C:\Users\yanbe\Desktop\лр3_графика\LABA3\LABA3\LABA3\obj\Debug\LABA3.Properties.Resources.resources
+C:\Users\yanbe\Desktop\лр3_графика\LABA3\LABA3\LABA3\obj\Debug\LABA3.csproj.GenerateResource.cache
+C:\Users\yanbe\Desktop\лр3_графика\LABA3\LABA3\LABA3\obj\Debug\LABA3.csproj.CoreCompileInputs.cache
+C:\Users\yanbe\Desktop\лр3_графика\LABA3\LABA3\LABA3\obj\Debug\LABA3.exe
+C:\Users\yanbe\Desktop\лр3_графика\LABA3\LABA3\LABA3\obj\Debug\LABA3.pdb
